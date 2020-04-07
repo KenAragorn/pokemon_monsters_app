@@ -1,6 +1,6 @@
 # pokemonmonstersapp
 
-A new Flutter application.
+A new Flutter application written mainly for the kid to have a consolidated place to watch all of his prefer Pokemon characters.
 
 ## Getting Started
 
